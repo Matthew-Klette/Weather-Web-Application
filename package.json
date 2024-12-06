@@ -1,7 +1,7 @@
 {
   "homepage": "http://Matthew-Klette.github.io/Weather-Web-Application",
   "name": "vite-react-typescript-starter",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
